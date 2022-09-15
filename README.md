@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fábio Santos 👋
 
 - 🔭 Trabalhando com Front-end  e desenvolvimento Mobile
-- 🌱 Estudando Back-end / JavaScript / Node.Js
+- 🌱 Estudando Back-end / Node.Js
 
  
 
