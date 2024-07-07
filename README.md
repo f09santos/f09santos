@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fábio Santos 👋
 
-- 🔭 Outsystems Developer | Web Developer | JavaScript | React
+- 🔭 Web Developer | HTML | CSS | JavaScript | React | SQL | GIT / GITHUB
 - 🌱 Estudando Back-end / Node.Js
 
  
