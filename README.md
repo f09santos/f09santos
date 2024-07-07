@@ -1,7 +1,11 @@
 ### Olá! Eu sou o Fábio Santos 👋
 
+- Desenvolvedor Web apaixonado por tecnologia, comprometido em criar aplicações web modernas, responsivas e focadas na experiência do usuário, através de análise, testes, treinamentos, feedbacks para melhoria constante das aplicações, sempre buscando aprimorar minhas habilidades e acompanhar as tendências do mercado. Resolvendo problemas de maneira criativa e eficiente. Valorizo o trabalho em equipe e a colaboração, sempre disposto a aprender e contribuir para projetos inovadores. 
+
 - 🔭 Web Developer | HTML | CSS | JavaScript | React | SQL | GIT / GITHUB
+
 - 🌱 Estudando Back-end / Node.Js
+ 
 
  
 
