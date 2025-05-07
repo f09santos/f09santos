@@ -4,7 +4,7 @@
 
 - 🔭 Web Developer | HTML | CSS | JavaScript | React | SQL | WordPress | GIT / GITHUB
 
-- 🌱 Estudando Back-end / Node.js
+- 🌱 Estudando Back-end / Java
  
 
  
